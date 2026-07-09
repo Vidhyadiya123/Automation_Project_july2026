@@ -25,3 +25,4 @@ export class BrowserManager {
         await this.browser.close();
     }
 }
+console.log("BROWSER Manager");
