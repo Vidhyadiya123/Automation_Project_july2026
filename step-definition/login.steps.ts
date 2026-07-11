@@ -23,3 +23,6 @@ When('User clicks on login button',async function () {
 Then('User should navigate to search hotel page',async function () {
     await BrowserManager.closeBrowser();
 });
+
+console.log("git");
+
